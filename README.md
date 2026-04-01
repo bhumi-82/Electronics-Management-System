@@ -19,8 +19,8 @@
 - Product Management System
 
 ## 📸 Screenshots
-<img width="1538" height="667" alt="image" src="https://github.com/user-attachments/assets/6731e95a-d124-4a4f-9d3a-1392793d338b" />
 <img width="933" height="498" alt="image" src="https://github.com/user-attachments/assets/2d815e74-257b-4694-85f5-9ccdfdd3610b" />
+<img width="1110" height="844" alt="image" src="https://github.com/user-attachments/assets/ff44ca42-3034-4a8d-bd9f-3ae84bc2652a" />
 
 
 
